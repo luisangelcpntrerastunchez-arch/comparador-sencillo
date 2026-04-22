@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+funsiona con una serie de conpuertas and que comparan todas las entradas para al final dar un 1 logico si todas estan ensedindas o un 0 loguico si todas estan apagadas
 
 ## How to test
 
-Explain how to use your project
+probamso  di al ensender todos lo swiches se ensienle el indicadr
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+dep swuich,led
